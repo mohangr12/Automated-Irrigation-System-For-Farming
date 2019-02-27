@@ -12,13 +12,19 @@ The Main focus of this project is to help the farmers and Gardeners by reducing 
 
 1.) Arduino UNO
 
+![](Arduino%20UNO.jpg)
+
 2.) HC-05 Bluetooth Module
 
 ![](Bluetooth%20Module.jpg)
 
 3.) YL-69 soil moisture sensor
 
+![](Soil%20Moisture%20sensor.jpg)
+
 4.) DC Water Pump
+
+![](Water%20Pump.png)
 
 # Connections
 
