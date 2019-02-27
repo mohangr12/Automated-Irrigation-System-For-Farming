@@ -20,7 +20,7 @@ The Main focus of this project is to help the farmers and Gardeners by reducing 
 
 # Connections
 
-1.) YL-69 soil moisture sensor
+## 1.) YL-69 soil moisture sensor
 
    a.) Connect A0 to analog pin 0 of arduino
    
@@ -29,7 +29,7 @@ The Main focus of this project is to help the farmers and Gardeners by reducing 
    c.) Connect Vcc to pin 5V of arduino uno
    
 
-2.) HC-05 bluetooth module
+## 2.) HC-05 bluetooth module
 
    a.) Connect Vcc to pin 5V of arduino uno
    
@@ -40,7 +40,7 @@ The Main focus of this project is to help the farmers and Gardeners by reducing 
    d.) Connect Tx to pin 0(Rx) of arduino uno
    
    
-3.) DC water pump
+## 3.) DC water pump
 
    a.) Connect One End of wire to ground pin of arduino uno
    
