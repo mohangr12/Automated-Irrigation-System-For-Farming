@@ -14,6 +14,8 @@ The Main focus of this project is to help the farmers and Gardeners by reducing 
 
 2.) HC-05 Bluetooth Module
 
+![](Bluetooth%20Module.jpg)
+
 3.) YL-69 soil moisture sensor
 
 4.) DC Water Pump
