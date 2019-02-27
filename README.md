@@ -1,14 +1,14 @@
-Automated Irrigation System For Farming
+# Automated Irrigation System For Farming
 
-Introduction
+# Introduction
 
 A Low cost irrigation system for farming using Arduino UNO, YL-69 soil moisture sensor, submersible dc water pump, HC-05 bluetooth module.
 
-Uses
+# Uses
 
 The Main focus of this project is to help the farmers and Gardeners by reducing their work by automating the irriation system.
 
-Hardware components used
+# Hardware components used
 
 1.) Arduino UNO
 
@@ -18,7 +18,7 @@ Hardware components used
 
 4.) DC Water Pump
 
-Connections
+# Connections
 
 1.) YL-69 soil moisture sensor
 
@@ -47,4 +47,4 @@ Connections
    b.) Connect Other end of wire to pin 13 of arduino uno
    
    
-Download the app "Bluetooth Terminal HC-05" From Play store.
+# Download the app "Bluetooth Terminal HC-05" From Play store.
